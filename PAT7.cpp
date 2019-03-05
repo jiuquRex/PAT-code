@@ -3,7 +3,7 @@
 using namespace std;
 
 int main(){
-	int k={0},a[10010]={0},d[10010]={0};
+	int k=0,a[10010]={0},d[10010]={0};
 	int count=0,temp=0,start=0;
 	scanf("%d",&k);
 	for(int i=0;i<k;i++){
