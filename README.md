@@ -1,8 +1,7 @@
 # PAT-code
-Reference codes for PAT advanced level practices.
 
-I am a student who are preparing for the Master's degree examination. 
-My target university is ZJU.
-The full name of PAT is programming ability test, a test host by my target school.
+备考浙大计算机，这里是我做PAT甲级的代码，可以给有需要的朋友参考。
 
-This repositry will include the code I write to solve the PAT problems.
+其中部分代码可能不是满分，因为实在找不到bug在哪……
+
+参考书有《数据结构（C语言实现）》严蔚敏，《算法笔记》胡凡，以及柳神的PAT答案。
